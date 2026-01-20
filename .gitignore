@@ -9,9 +9,6 @@ wp-content/uploads/
 wp-content/cache/
 wp-content/ai1wm-backups/
 
-# Plugins (optional – job projects me mostly ignore)
-wp-content/plugins/
-
 # Config
 wp-config.php
 
