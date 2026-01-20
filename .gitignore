@@ -1,0 +1,20 @@
+# WordPress core
+wp-admin/
+wp-includes/
+
+# Uploads
+wp-content/uploads/
+
+# Cache
+wp-content/cache/
+wp-content/ai1wm-backups/
+
+# Plugins (optional – job projects me mostly ignore)
+wp-content/plugins/
+
+# Config
+wp-config.php
+
+# OS files
+.DS_Store
+Thumbs.db
