@@ -4,7 +4,8 @@ Template Name: Home template
 */
 get_header();
 ?>
-
+<h1>Welcome!!!</h1>
+<h2>hello Git</h2>
 <!-- Course Grid Start -->
 <section class="home-courses">
     <div class="container">
