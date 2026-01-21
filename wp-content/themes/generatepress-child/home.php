@@ -58,6 +58,17 @@ get_header();
 </section>
 <!-- Course Grid End -->
 
+<!-- ===== New Custom Section Start ===== -->
+<section class="custom-new-section">
+    <div class="container">
+        <h2>Our New Section</h2>
+        <p>This is a new section added via Git workflow.</p>
+    </div>
+</section>
+<!-- ===== New Custom Section End ===== -->
+
+
+
 <?php
 get_footer();
 ?>
